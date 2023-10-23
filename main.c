@@ -1,6 +1,8 @@
 #include <stdbool.h>
 #include <stdio.h>
 
+// adding a comment to track changes
+
 /* Declare arrays to store the shoe IDs, inventory, rented shoes, lost shoes, rented shoes 
  counter, lost shoes counter and initialize variables.*/
 
